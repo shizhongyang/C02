@@ -144,7 +144,11 @@ public:
 		cout << "--gff---" << endl;
 	}
 
+	//深拷贝
 	Stu(const Stu &stu){
+		int len = strlen(name);
+		this->name = (char*)malloc(len + 1);
+
 		this->age = stu.age;
 		this->name = stu.name;
 		cout << "--拷贝构造函数---" << endl;
