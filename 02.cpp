@@ -66,7 +66,7 @@ void main(){
 	*p = 5;
 
 
-	//常量指针  指向常量的指针.  内容不能修改
+	//常量指针  指向常量的指针。 内容不能修改
 	const int *p2 = &a;
 	p2 = &b;
 	//*p2 = 9;  错误
@@ -116,6 +116,7 @@ void myprintf3(const int &a){
 void main(){
 
 	int i = 9;
+
 	//常量不赋值不行
 	//const int a;
 	//引用必须要用只不能为空
