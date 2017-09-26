@@ -67,10 +67,18 @@
     <ClCompile Include="01.cpp" />
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
+    <ClCompile Include="04.cpp" />
+    <ClCompile Include="05.cpp" />
+    <ClCompile Include="Copter.cpp" />
+    <ClCompile Include="Jet.cpp" />
     <ClCompile Include="My.cpp" />
+    <ClCompile Include="Plane.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Copter.h" />
+    <ClInclude Include="Jet.h" />
     <ClInclude Include="My.h" />
+    <ClInclude Include="Plane.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

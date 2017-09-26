@@ -27,9 +27,33 @@
     <ClCompile Include="03.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Jet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Copter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="My.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Jet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Copter.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
