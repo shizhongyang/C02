@@ -42,6 +42,9 @@
     <ClCompile Include="Copter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="My.h">

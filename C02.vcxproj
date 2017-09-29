@@ -69,6 +69,7 @@
     <ClCompile Include="03.cpp" />
     <ClCompile Include="04.cpp" />
     <ClCompile Include="05.cpp" />
+    <ClCompile Include="06.cpp" />
     <ClCompile Include="Copter.cpp" />
     <ClCompile Include="Jet.cpp" />
     <ClCompile Include="My.cpp" />
